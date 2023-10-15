@@ -1,3 +1,5 @@
+see full information at https://medium.com/@duongkhanhk29/power-bi-and-what-you-need-to-know-bcb785bf21b5
+
 Power BI is a versatile tool that allows you to handle large amounts of data from various sources, automate data workflows, and perform advanced analytics using DAX expressions. It enables the creation of interactive reports and dashboards with top-tier visualization tools.
  
 Power BI Desktop is divided into two main environments: the back-end and the front-end. The back-end houses the Power Query Editor, which is responsible for extracting, transforming, and loading raw data to the front-end using M code. Conversely, the front-end consists of the Data, Model, and Report views. This is where the majority of data modeling, analysis, and visualization are conducted using Data Analysis Expressions (DAX).
