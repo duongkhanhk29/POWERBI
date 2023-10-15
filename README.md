@@ -1,4 +1,4 @@
-see full information at https://medium.com/@duongkhanhk29/power-bi-and-what-you-need-to-know-bcb785bf21b5
+_Please see full information at https://medium.com/@duongkhanhk29/power-bi-and-what-you-need-to-know-bcb785bf21b5_
 
 Power BI is a versatile tool that allows you to handle large amounts of data from various sources, automate data workflows, and perform advanced analytics using DAX expressions. It enables the creation of interactive reports and dashboards with top-tier visualization tools.
  
